@@ -1,4 +1,4 @@
-<img width="1471" height="751" alt="image" src="https://github.com/user-attachments/assets/68108121-4842-4857-9483-75da19679f07" />
+
 ## Date:
 27/12/2025
 ## AIM:
